@@ -2,10 +2,10 @@
 
 # Sample dataset (same as before, but we’ll also add one faulty record to test exception handling)
 dataset = [
-    {"Farmer": "Ali", "Crop": "Wheat", "Acres": 5, "Yield": 12, "Region": "North"},
-    {"Farmer": "Sana", "Crop": "Rice", "Acres": 8, "Yield": 18, "Region": "South"},
-    {"Farmer": "Imran", "Crop": "Corn", "Acres": 4, "Yield": 9, "Region": "East"},
-    {"Farmer": "Ayesha", "Crop": "Wheat", "Acres": 6, "Yield": 14, "Region": "West"},
+    {"Farmer": "Ahmad", "Crop": "Wheat", "Acres": 5, "Yield": 11, "Region": "North"},
+    {"Farmer": "Sara", "Crop": "Rice", "Acres": 8, "Yield": 13, "Region": "South"},
+    {"Farmer": "Imran", "Crop": "Corn", "Acres": 4, "Yield": 8, "Region": "East"},
+    {"Farmer": "Aiza", "Crop": "Wheat", "Acres": 9, "Yield": 12, "Region": "West"},
     {"Farmer": "Test", "Crop": "Wheat", "Acres": 7, "Region": "North"}  # missing Yield!
 ]
 
