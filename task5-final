@@ -5,10 +5,10 @@ import pandas as pd
 
 # Dataset
 dataset = [
-    {"Farmer": "Ali", "Crop": "Wheat", "Acres": 5, "Yield": 12, "Region": "North"},
-    {"Farmer": "Sana", "Crop": "Rice", "Acres": 8, "Yield": 18, "Region": "South"},
-    {"Farmer": "Imran", "Crop": "Corn", "Acres": 4, "Yield": 9, "Region": "East"},
-    {"Farmer": "Ayesha", "Crop": "Wheat", "Acres": 6, "Yield": 14, "Region": "West"}
+    {"Farmer": "Ahmad", "Crop": "Wheat", "Acres": 5, "Yield": 13, "Region": "North"},
+    {"Farmer": "Sara", "Crop": "Rice", "Acres": 8, "Yield": 16, "Region": "South"},
+    {"Farmer": "Imran", "Crop": "Corn", "Acres": 4, "Yield": 6, "Region": "East"},
+    {"Farmer": "Aiza", "Crop": "Wheat", "Acres": 6, "Yield": 10, "Region": "West"}
 ]
 
 # Convert dataset to Pandas DataFrame (for easy table + analysis)
