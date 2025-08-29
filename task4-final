@@ -5,10 +5,10 @@ import numpy as np   # optional but great for correlation & std
 
 # Dataset (from Task 2, removing faulty record for clean stats)
 dataset = [
-    {"Farmer": "Ali", "Crop": "Wheat", "Acres": 5, "Yield": 12, "Region": "North"},
-    {"Farmer": "Sana", "Crop": "Rice", "Acres": 8, "Yield": 18, "Region": "South"},
-    {"Farmer": "Imran", "Crop": "Corn", "Acres": 4, "Yield": 9, "Region": "East"},
-    {"Farmer": "Ayesha", "Crop": "Wheat", "Acres": 6, "Yield": 14, "Region": "West"}
+    {"Farmer": "Ahmad", "Crop": "Wheat", "Acres": 5, "Yield": 12, "Region": "North"},
+    {"Farmer": "Sara", "Crop": "Rice", "Acres": 8, "Yield": 16, "Region": "South"},
+    {"Farmer": "Imran", "Crop": "Corn", "Acres": 4, "Yield": 11, "Region": "East"},
+    {"Farmer": "Aiza", "Crop": "Wheat", "Acres": 6, "Yield": 12, "Region": "West"}
 ]
 
 # Extract yield and acres data
